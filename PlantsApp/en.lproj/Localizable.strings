@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  PlantsApp
+
+  Created by Baris Dilekci on 29.11.2023.
+  
+*/
+
+"Bitki Ekle" = "Add Plant";
+"Bitki İsmi" = "Plant Name";
+"Bitki Açıklaması" =  "Plant Description";
+"Fotoğraf Seç" = "Select Photo";
+"Kaydet" = "Save";
+"İptal" = "Cancel";
+"Bitkilerim" = "My Plants";
+
